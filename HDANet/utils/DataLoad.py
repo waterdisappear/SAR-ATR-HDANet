@@ -112,7 +112,7 @@ def load_data(file_dir, id=0, picture_size=128):
         for file in files:
             if os.path.splitext(file)[1] == '.jpeg':
                 path_list.append(os.path.join(root, file))
-    for jpeg_path in path_list[0:20]:
+    for jpeg_path in path_list:
         jpeg = cv2.imread(jpeg_path, cv2.IMREAD_GRAYSCALE)
         pic = crop_transform(picture_size)(torch.from_numpy(jpeg))
         jpeg_list.append(np.array(pic.div(pic.max())))
