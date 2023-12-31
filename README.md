@@ -1,9 +1,6 @@
 # Hierarchical Disentanglement-Alignment Network for Robust SAR Vehicle Recognition
 
-This paper proposes a novel domain alignment framework, Hierarchical Disentanglement-Alignment Network (HDANet), to enhance features' causality and robustness.
-
-<a href="https://ieeexplore.ieee.org/document/10283916">
-<a href="https://arxiv.org/abs/2304.03550">
+This paper proposes a novel domain alignment framework, <a href="https://ieeexplore.ieee.org/document/10283916">Hierarchical Disentanglement-Alignment Network (HDANet)</a>, to enhance features' causality and robustness.
 
 ## Data
 The folder includes MSTAR images under SOC and EOCs and detailed information can be found in our paper. (JPEG-E)
