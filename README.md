@@ -2,7 +2,8 @@
 
 This paper proposes a novel domain alignment framework, Hierarchical Disentanglement-Alignment Network (HDANet), to enhance features' causality and robustness.
 
-https://arxiv.org/abs/2304.03550
+<a href="https://ieeexplore.ieee.org/document/10283916">
+<a href="https://arxiv.org/abs/2304.03550">
 
 ## Data
 The folder includes MSTAR images under SOC and EOCs and detailed information can be found in our paper. (JPEG-E)
@@ -37,6 +38,17 @@ for epoch in range(1, arg.epochs + 1):
 
 acc = model_test(model, test_loader)
 ```
+## Contact us
+If you have any questions, please contact us at lwj2150508321@sina.com
 
-
-
+```
+@ARTICLE{10283916,
+  author={Li, Weijie and Yang, Wei and Zhang, Wenpeng and Liu, Tianpeng and Liu, Yongxiang and Liu, Li},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Hierarchical Disentanglement-Alignment Network for Robust SAR Vehicle Recognition}, 
+  year={2023},
+  volume={16},
+  number={},
+  pages={9661-9679},
+  doi={10.1109/JSTARS.2023.3324182}}
+```
