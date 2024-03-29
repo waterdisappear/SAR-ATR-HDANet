@@ -3,7 +3,7 @@
 This paper proposes a novel domain alignment framework, <a href="https://ieeexplore.ieee.org/document/10283916">Hierarchical Disentanglement-Alignment Network (HDANet)</a>, to enhance features' causality and robustness.
 
 <p align="center">
-  <img src="https://github.com/waterdisappear/SAR-ATR-HDANet/blob/main/fig_framework.png" width="960">
+  <img src="https://github.com/waterdisappear/SAR-ATR-HDANet/blob/main/fig_framework.png" width="720">
 </p>
 
 
@@ -42,7 +42,7 @@ acc = model_test(model, test_loader)
 ```
 
 <p align="center">
-  <img src="https://github.com/waterdisappear/SAR-ATR-HDANet/blob/main/fig_radarmap.png" width="640">
+  <img src="https://github.com/waterdisappear/SAR-ATR-HDANet/blob/main/fig_radarmap.png" width="480">
 </p>
 
 ## Contact us
