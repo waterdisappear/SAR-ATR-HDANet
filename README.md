@@ -40,6 +40,11 @@ for epoch in range(1, arg.epochs + 1):
 
 acc = model_test(model, test_loader)
 ```
+
+<p align="center">
+  <img src="https://github.com/waterdisappear/SAR-ATR-HDANet/blob/main/fig_radarmap.png" width="640">
+</p>
+
 ## Contact us
 If you have any questions, please contact us at lwj2150508321@sina.com
 
