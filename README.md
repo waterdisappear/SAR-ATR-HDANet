@@ -25,7 +25,7 @@ This paper proposes a novel domain alignment framework, Hierarchical Disentangle
 
 <figure>
 <div align="center">
-<img src=example/fig_radarmap.png width="90%">
+<img src=example/fig_radarmap.png width="60%">
 </div>
 </figure>
 
