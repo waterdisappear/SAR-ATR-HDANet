@@ -1,6 +1,6 @@
 <h1 align="center"> HDANet: Hierarchical Disentanglement-Alignment Network for Robust SAR Vehicle Recognition </h1> 
 
-<h5 align="center"><em> Weijie Li (李玮杰), Wei Yang (杨威), Wenpeng Zhang (张文鹏), Tianpeng Liu (刘天鹏), Yongxiang (刘永祥), and Li Liu (刘丽), and  </em></h5>
+<h5 align="center"><em> Weijie Li (李玮杰), Wei Yang (杨威), Wenpeng Zhang (张文鹏), Tianpeng Liu (刘天鹏), Yongxiang (刘永祥), and Li Liu (刘丽) </em></h5>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2304.03550"><img src="https://img.shields.io/badge/Paper-arxiv-red"></a>
