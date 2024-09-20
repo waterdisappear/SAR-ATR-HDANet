@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2304.03550"><img src="https://img.shields.io/badge/Paper-arxiv-red"></a>
-<a href="https://ieeexplore.ieee.org/document/10283916"><img src="https://img.shields.io/badge/Paper-IEEE%20J-STARS-red"></a>
+<a href="https://ieeexplore.ieee.org/document/10283916"><img src="https://img.shields.io/badge/Paper-IEEE%20J--STARS-red"></a>
 </p>
 
 ## Introduction
