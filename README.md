@@ -39,7 +39,7 @@ Requirements
 - Python 
 - PyTorch 
 - Numpy
-- Captum (We used captum to generate pseudo-labels.)
+- [Captum](https://captum.ai/) (We used captum to generate pseudo-labels.)
 
 A simple demo.
 
