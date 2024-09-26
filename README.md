@@ -3,8 +3,15 @@
 <h5 align="center"><em> Weijie Li (李玮杰), Wei Yang (杨威), Wenpeng Zhang (张文鹏), Tianpeng Liu (刘天鹏), Yongxiang (刘永祥), and Li Liu (刘丽) </em></h5>
 
 <p align="center">
+  <a href="#Introduction">Introduction</a> |
+  <a href="#Data">Data</a> |
+  <a href="#HDANet">HDANet</a> |
+  <a href="#Statement">Statement</a>
+</p >
+
+<p align="center">
+<a href="https://ieeexplore.ieee.org/document/10283916"><img src="https://img.shields.io/badge/Paper-IEEE%20J--STARS-blue"></a>
 <a href="https://arxiv.org/abs/2304.03550"><img src="https://img.shields.io/badge/Paper-arxiv-red"></a>
-<a href="https://ieeexplore.ieee.org/document/10283916"><img src="https://img.shields.io/badge/Paper-IEEE%20J--STARS-red"></a>
 </p>
 
 ## Introduction
@@ -70,8 +77,9 @@ acc = model_test(model, test_loader)
 
 ## Statement
 
-This project is strictly forbidden for any commercial purpose. Any questions please contact us at lwj2150508321@sina.com. 
-If you find our work is useful, please give us 🌟 in GitHub and cite our paper in the following BibTex format:
+- This project is released under the [CC BY-NC 4.0](LICENSE).
+- Any questions please contact us at lwj2150508321@sina.com. 
+- If you find our work is useful, please give us 🌟 in GitHub and cite our paper in the following BibTex format:
 
 ```
 @ARTICLE{li2023hierarchical,
