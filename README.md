@@ -17,9 +17,9 @@
 
 ## Introduction
 
-This paper proposes a novel domain alignment framework, Hierarchical Disentanglement-Alignment Network (HDANet), to enhance SAR ATR features' causality and robustness. 
+This paper proposes a novel domain alignment framework, Hierarchical Disentanglement-Alignment Network (HDANet), to enhance SAR ATR features' causality and robustness. If you find our work is useful, please give us a star 🌟 in GitHub and cite our paper in the BibTex format at the end.
 
-本文提出了一种新颖的域对齐框架，分层解耦对齐网络（HDANet），以增强SAR目标识别特征的因果性和鲁棒性。
+本文提出了一种新颖的域对齐框架，分层解耦对齐网络（HDANet），以增强SAR目标识别特征的因果性和鲁棒性。如果您觉得我们的工作有价值，请在 GitHub 上给我们个星星 🌟 并按页面最后的 BibTex 格式引用我们的论文。
 
 <figure>
 <div align="center">
